@@ -21,7 +21,7 @@ Python installed on your system
 Installation:
 
 # Clone the repository
-git clone https://github.com/muhammedogz/MLSA-Certificate-Automate.git
+git clone (https://github.com/thisara011/Microsoft-Learn-Student-Ambassador-Certificate-Automation.git)
 
 # Navigate into the project folder
 cd MLSA-Certificate-Automate
